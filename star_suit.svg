@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   version="1.1"
+   id="svg1"
+   width="10.746514"
+   height="10.232719"
+   viewBox="0 0 10.746514 10.23272"
+   sodipodi:docname="suit_symbols.pdf"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1" />
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1" />
+  <g
+     id="g1"
+     inkscape:groupmode="layer"
+     inkscape:label="1"
+     transform="translate(-110.7223,-4.4313674)">
+    <path
+       id="path5"
+       d="m 112.87144,14.532031 0.68977,-3.776516 -2.69012,-2.3797226 3.65581,-0.6035528 1.58648,-3.1902082 1.55199,3.1902082 3.65581,0.5863085 -2.65564,2.3969669 0.67253,3.776516 -3.22469,-1.931368 z m 0,0"
+       style="fill:#ff0000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.133;stroke-dasharray:none;stroke-opacity:1"
+       aria-label="🟊" />
+  </g>
+</svg>
